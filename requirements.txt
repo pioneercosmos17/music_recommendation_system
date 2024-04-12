@@ -1,9 +1,0 @@
-tensorflow
-mediapipe
-av
-streamlit
-numpy
-streamlit-webrtc
-opencv-python== 4.9.0.80
-pillow
-scipy
