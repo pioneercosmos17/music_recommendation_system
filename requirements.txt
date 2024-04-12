@@ -1,0 +1,10 @@
+tensorflow
+mediapipe
+av
+webbrowser
+streamlit
+numpy
+streamlit-webrtc
+opencv-python
+pillow
+scipy
